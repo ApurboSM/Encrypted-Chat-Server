@@ -1,4 +1,4 @@
-# Task 7: Encrypted Chat Server with Custom Handshake
+# Encrypted Chat Server with Custom Handshake
 
 ## Overview
 A secure chat system implementing a mini SSL-like handshake mechanism with RSA key exchange and AES-256 encryption for all messages. This demonstrates transport-level encryption similar to how HTTPS/TLS works.
